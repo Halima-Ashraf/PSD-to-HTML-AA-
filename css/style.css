@@ -16,12 +16,30 @@ body{margin: 0px; padding: 0px;}
 
 
 .next_area{height: 800px; background-color: #21243d;position: relative;overflow: hidden;}
-.next_area h1{color: white; font-weight: bold; text-align: center; padding-top: 5%;}
+.next_area h1{color: white; font-weight: bold; text-align: center; padding-top: 102px;}
 .next_area p{color: #ffffff; text-align: center; margin-top: 2%;}
-.next_area .crd{}
-.next_area .crd img{border-radius: 200px;}
+.next_area .crd{margin-left: 5%;}
+.next_area .crd img{border-radius: 200px; margin-left: 40px; margin-top: 100px;}
+.next_area .crd h2{color:white; text-align: center;margin-top: 20px; margin-left: 20px;}
+.next_area .crd p{color:#ffffff; text-align: center;margin-top: 5px; margin-left: 20px;}
+
 
 .next_area .shapeOne{margin-left: 110px; margin-top: 180px;position: absolute;}
 .next_area .shapetwo{position: absolute; right: 0;top: -30px;}
 .next_area .shapethree{position: absolute; margin-top: 504px;}
-.next_area .shapefour{position: absolute; margin-top: 24px; margin-left: 264px;}
+.next_area .shapefour{position: absolute; margin-top: -20px; margin-left: 264px;}
+.next_area .shapefive{position: absolute; right: 0; margin-top: 694px;}
+.next_area .shapesix{position: absolute; right: 0; margin-top: 332px;}
+
+.order_area{background-color: #ffd17e; height: 800px;}
+.order_area .shape7{margin-left: 80px; margin-top: 300px; position: absolute;}
+.order_area .shape8{margin-left: 770px; margin-top: 130px; position: absolute;}
+.order_area .shape9{right: 0; margin-top: 20px; position: absolute; margin-right: 20px;}
+.order_area .shape10{right: 0; margin-top: 570px; position: absolute;}
+.order_area .shape11{margin-top: 590px; margin-left: 40px; position: absolute;}
+.order_area .img{margin-left: 97px; margin-top: 350px;}
+
+.order_area .ordr{margin-top: 350px;}
+.order_area h1{font-size: 60px; font-weight: bold; color: #21243d; margin-top: 30%; margin-left: 10%;}
+.order_area p{color:#21243d; margin-left: 10%; margin-top: 7%;}
+.order_area a{color:#ffffff; margin-left: 10%; margin-top: 2%; background-color: #21243d; border-radius: 20px; display: block; width: 180px; height: 40px; text-align: center; padding: 7px 7px; text-decoration: none; }
