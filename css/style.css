@@ -1,0 +1,27 @@
+*{padding: 0px; margin: 0px;}
+body{margin: 0px; padding: 0px;}
+
+.header{background-color: #21243d;height: 60px;}
+.header .menubar{}
+.header .menubar ul{margin-top:2%;}
+.header .menubar ul li{display: inline-block; color: #ffffff; margin-left: 10%;}
+.header .menubar ul li a{color: white; list-style-type: none; text-decoration: none;}
+.header a{color:  #ffffff; float: right; margin-top: 7%; }
+
+
+.main_area{height: 800px; width:auto;background: url(../img/b-1.png); background-repeat: no-repeat; padding: 0px; margin-bottom: -4px; background-size: cover;}
+.main_area h1{font-size: 100px; font-weight: bold; color: white; margin-top: 30%; margin-left: 10%;}
+.main_area p{color:#ffffff; margin-left: 10%; margin-top: 7%;}
+.main_area a{color:#ffffff; margin-left: 10%; margin-top: 1%; background-color: #21243d; border-radius: 20px; display: block; width: 170px; height: 35px; text-align: center; padding: 7px 7px; text-decoration: none; }
+
+
+.next_area{height: 800px; background-color: #21243d;position: relative;overflow: hidden;}
+.next_area h1{color: white; font-weight: bold; text-align: center; padding-top: 5%;}
+.next_area p{color: #ffffff; text-align: center; margin-top: 2%;}
+.next_area .crd{}
+.next_area .crd img{border-radius: 200px;}
+
+.next_area .shapeOne{margin-left: 110px; margin-top: 180px;position: absolute;}
+.next_area .shapetwo{position: absolute; right: 0;top: -30px;}
+.next_area .shapethree{position: absolute; margin-top: 504px;}
+.next_area .shapefour{position: absolute; margin-top: 24px; margin-left: 265px;}
