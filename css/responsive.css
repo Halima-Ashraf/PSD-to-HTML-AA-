@@ -1,14 +1,76 @@
 
 /* if the viewport is equal to 340px or less than that */ 
 @media only screen and (max-width: 340px){
-    
+	.order_area .shape8{margin-left: 70px; margin-top: 10px;}
+	.order_rev .shape7{margin-left: 70px; margin-top: 10px; }
+	.order_rev .shape11{margin-top: 60px; margin-left: 10px;}
+	.subscribe .shape11{margin-top: 70px; margin-left: 10px;}
+	.main_area h1{font-size: 60px; margin-top: 10%;}
+    .main_area{height: 400px;}
+    .next_area .shapeOne{margin-left: 50px; margin-top: 10px;}
+    .next_area .shapesix{right: 0; margin-right: 5%; margin-top: 332px;}
+    .next_area .shapethree{margin-top: 504px;}
+    .next_area .crd{margin-left: 15px; width: 30%;} 
+    .next_area .crd img{border-radius: 200px; margin-left: 0px; margin-top: 100px; width: 110%;}
+    .order_area .img{margin-left: 50px; margin-top: 200px;}
+	.order_area .shape7{margin-left: 50px; margin-top: 125px; position: absolute;}
+	.sat_area .shapeOne{margin-left: 50px; margin-top: 80px;}
+	.sat_area .shapetwo{ right: 0;top: 30px; margin-right: 1px;}
+	.sat_area h1{color: white; font-weight: bold; text-align: center; padding-top: 120px;}
+	.sat_area .num{margin-top: 10%; margin-left: 5px; width: 30%;}
+	.sat_area .num img{margin-top: 5%; margin-left: 10px; width: 140%;}
+	.sat_area .num h1{margin-top: -260px; text-align: center; margin-left: 50%; font-weight: bold;font-size: 30px;}
+	.sat_area .num h2{ color:white;margin-top: -10px; text-align: center; margin-left: 50%; font-weight: bold;font-size: 20px;}
+
+
 
 }
 
 
 /* if the viewport is equal to 340px or less than that */ 
 @media only screen and (max-width: 792px){
+   .order_area .shape8{margin-left: 70px; margin-top: 10px;}
+   .order_rev .shape7{margin-left: 70px; margin-top: 10px; }
+   .order_rev .shape11{margin-top: 60px; margin-left: 10px;}
+   .subscribe .shape11{margin-top: 70px; margin-left: 10px;}
+   .main_area h1{font-size: 60px; text-align: center; margin-top: 10%;}
+   .main_area p{font-size: 20px; text-align: center;}
+   .main_area a{font-size: 20px; margin:0px auto;}
+   .main_area{height: 400px;}
+   .next_area .shapeOne{margin-left: 50px; margin-top: 10px;}
+   .next_area .shapesix{right: 0; margin-right: 5%; margin-top: 332px;}
+   .next_area .shapethree{margin-top: 504px}
+   .next_area .crd{margin-left: 15px; width: 30%;}
+   .next_area .crd img{border-radius: 20px; margin-left: 0px; margin-top: 100px;width: 110%;}
+   .order_area .img{margin-left: 50px; margin-top: 200px;}
+   .order_area .shape7{margin-left: 50px; margin-top: 125px; position: absolute;}
+   .sat_area .shapeOne{margin-left: 50px; margin-top: 80px;}
+   .sat_area .shapetwo{ right: 0;top: 30px; margin-right: 1px;}
+   .sat_area h1{color: white; font-weight: bold; text-align: center; padding-top: 120px; font-size: 50px;}
+   .sat_area .num{margin-top: 10%; margin-left: 5px; width: 30%;}
+	.sat_area .num img{margin-top: 5%; margin-left: 10px; width: 140%;}
+   .sat_area .num h1{margin-top: -260px; text-align: center; margin-left: 50%; font-weight: bold;font-size: 30px;}
+	.sat_area .num h2{ color:white;margin-top: -10px; text-align: center; margin-left: 50%; font-weight: bold;font-size: 20px;}
+	.order_rev .shape7{margin-left: 200px; margin-top: 40px;}
+	.order_rev .shape11{margin-top: 120px; margin-left: 40px;}
+	.order_rev .shape8{margin-left: 20px; margin-top: 30px;}
+	.order_rev .shape10{right: 0; margin-top: 10px; margin-right: 1%;}
+	.order_rev .ordr{margin-top: 400px; margin-left: -50px;}
+	.order_rev .img img{margin-left: 350px; margin-top: -1200px;width: 40%;}
+	.subscribe h1{font-size: 100px; font-weight: bold; color: #21243d; padding-top: 55%; text-align: center;}
+	.subscribe .shape11{margin-top: 80px; margin-left: 20px;}
+	.subscribe .shape7{margin-left: 250px; margin-top: 10px;}
+	.subscribe .shape10{right: 0; margin-top: 30%;margin-right: 28%;}
+
+
+
+
+
+
    
+
+
+
 }
 
 

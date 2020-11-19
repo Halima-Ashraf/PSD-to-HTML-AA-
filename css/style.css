@@ -12,7 +12,7 @@ body{margin: 0px; padding: 0px;}
 .main_area{height: 800px; width:auto;background: url(../img/b-1.png); background-repeat: no-repeat; padding: 0px; margin-bottom: -4px; background-size: cover;}
 .main_area h1{font-size: 100px; font-weight: bold; color: white; margin-top: 30%; margin-left: 10%;}
 .main_area p{color:#ffffff; margin-left: 10%; margin-top: 7%;}
-.main_area a{color:#ffffff; margin-left: 10%; margin-top: 1%; background-color: #21243d; border-radius: 20px; display: block; width: 170px; height: 35px; text-align: center; padding: 7px 7px; text-decoration: none; }
+.main_area a{color:#ffffff; margin-left: 10%; margin-top: 1%; background-color: #21243d; border-radius: 20px; display: block; width: 170px; text-align: center; padding: 7px 7px; text-decoration: none; }
 
 
 .next_area{height: 800px; background-color: #21243d;position: relative;overflow: hidden;}
@@ -94,25 +94,41 @@ body{margin: 0px; padding: 0px;}
 .subscribe p{color:#21243d;  margin-top: 1%; font-size: 30px; text-align: center;}
 
 .subscribe .ordr input{width: 50%; height: 60px; border-radius: 100px; font-size: 20px; margin-left: 15%; margin-top: 5%;}
-.subscribe .ordr input[type="subscribe"]{width: 20%; height: 60px; border-radius: 100px; font-size: 20px; text-align: center; margin-left: -60px; background-color: #21243d; color:white;}
+.subscribe .ordr input[type="submit"]{width: 20%; height: 60px; border-radius: 100px; font-size: 30px; text-align: center; margin-left: -60px; background-color: #21243d; color:white;}
 
 
-.end{height: 800px; background-color: #111111;}
-.end .ses1{padding-top: 90%; margin-left: -13%;}
-.end .ses1 h2{color: white; margin-top: 10%;}
+.end{height: 800px; background-color: #111111;  padding-top: 10%;}
+.end .ses1{margin-left: 13%;}
+.end .ses1 h2{color: white;}
 .end .ses1 p{color: white; margin-top: 3%;}
-.end .ses1 ul{width: 25%; margin-left: 1%;}
-.end .ses1 ul li{list-style-type: none; display: inline-block; margin-left: -2%; border-radius: 5px;}
-.end .ses1 ul li a{background-color: white; }
+.end .ses1 ul{}
+.end .ses1 ul li{list-style-type: none; display: inline-block;}
+.end .ses1 ul li a {
+    background-color: white;
+    display: block;
+    padding: 10px 15px;
+    font-size: 22px;
+    border-radius: 50px;
+}
+.end .ses1 ul li a i.myfb{padding: 5px 5px;}
 
-.end .ses2{padding-top: 30%; margin-left: 10%;}
+.end .ses2{ margin-left: 10%;}
 .end .ses2 h2{color: white;}
 .end .ses2 h6{color: white; padding-top: 3%;}
+.end .ses2 ul{}
+.end .ses2 ul li{list-style-type: none;}
+.end .ses2 ul li a{ text-decoration: none;}
 
-.end .ses3{padding-top: 30%; margin-left: 10%;}
+.end .ses3{ margin-left: 10%;}
 .end .ses3 h2{color: white;}
 .end .ses3 h6{color: white; padding-top: 3%;}
+.end .ses3 ul{}
+.end .ses3 ul li{list-style-type: none;}
+.end .ses3 ul li a{ text-decoration: none;}
 
-.end .ses4{padding-top: 30%; margin-left: 10%;}
+.end .ses4{ margin-left: 10%;}
 .end .ses4 h2{color: white;}
 .end .ses4 h6{color: white; padding-top: 3%;}
+.end .ses4 ul{}
+.end .ses4 ul li{list-style-type: none;}
+.end .ses4 ul li a{ text-decoration: none;}
